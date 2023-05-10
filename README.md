@@ -15,4 +15,4 @@ Here are the key steps for the technical process:
 
 Please check the [Python code](code.ipynb) and [discussion of technical details](Technical_Writup.pdf). 
 
-As the outcome of this project, we designed UI/UX of this app plug-in product’s prototype and presented the [business proposal](TipTok_Business Proposal.pdf) to the hypothetical investors. 
+As the outcome of this project, we designed UI/UX of this app plug-in product’s prototype and presented the [business proposal](TipTok_Business_Proposal.pdf) to the hypothetical investors. 
