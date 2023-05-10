@@ -11,7 +11,7 @@ Here are the key steps for the technical process:
 - Regression
 - Trees (XGBoost and GBM)
 - Neural Networks
-5. Result Discussion
+4. Result Discussion
 
 Please check the [Python code](code.ipynb) and [discussion of technical details](Technical_Writup.pdf). 
 
